@@ -1,0 +1,55 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    width: 1200px;
+    position: relative;
+    margin: auto;
+    padding: 10px;
+}
+
+.novica {
+    width: 350px;
+    height: 200px;
+    position: relative;
+}
+
+.kategorija {
+    width: 330px;
+    height: 30px;
+    padding: 5px 0px 0px 10px;
+    font-size: 12px;
+}
+
+.kategorija h2 {
+    border-bottom: solid 3px;
+    #DCDCDC;
+    color: #dcdcdc;
+    font-size: 15px;
+}
+
+.slika {
+    width: 114px;
+    height: 76px;
+    overflow: hidden;
+    float: left;
+    padding: 0px 0px 0px 10px
+}
+
+.naslov {
+    width: 216px;
+    height: 20px;
+    float: right;
+    position: relative;
+    font-size: 14;
+}
+
+.besedilo {
+    width: 330px;
+    height: 2px;
+    clear: both;
+    padding: 5px 0px 0px 10px;
+    font-size: 14;
+}

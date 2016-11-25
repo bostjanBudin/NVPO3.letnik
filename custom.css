@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(125, 154, 253);
+   font-family: anaglyph;
+}
+
+h1{
+   background-color:  purple;
+   padding: 0px;
+   margin: 10px;
+   text-align: center;
+   font-size: 50px;
+    font-family: tangerine;
+}
+
+ul li {margin: auto; width: 150px;
+display: inline-block; 
+background-color: aquamarine;
+position: relative;
+    
+}
+ul li:hover{background-color: deeppink;
+transition: 1.5s ease; 
+position: relative;
+}
+
+
+img{box-shadow: 0px 0px 6px 3px rgba(0,0,0,0.5);
+transition: 1s ease;
+margin: 7px;
+    
+}
+
+img:hover{box-shadow: 0px 0px 0px 3px rgba(127,255,212,0.5);
+
+}
